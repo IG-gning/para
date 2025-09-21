@@ -1,0 +1,22 @@
+
+.Membre{
+     background-color: gainsboro;
+}
+.sectionMembreBloquer table{
+    width: 50%;
+    margin: auto;   
+}
+
+.bi-slash-circle{
+    color:  red;
+    font-weight: bold;
+}
+
+.sectionNextPage table{
+    width: 50%;
+    margin: auto;
+   
+}
+.sectionNextPage{
+    display: none;
+}
