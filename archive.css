@@ -1,0 +1,20 @@
+.archives{
+     background-color: gainsboro;
+}
+.sectionArchives table{
+    width: 50%;
+    margin: auto;   
+}
+
+.bi-backpack4-fill{
+    color:  rgb(0, 224, 149);
+}
+
+.sectionNextPage table{
+    width: 50%;
+    margin: auto;
+   
+}
+.sectionNextPage{
+    display: none;
+}
